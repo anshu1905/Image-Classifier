@@ -1,12 +1,13 @@
 # Image-Classifier
 Deep Learning Model(Image Classifier(CNN)) Using Tensorflow And Keras
 
-**pip install tensorflow
 
-**pip install keras
+*pip install tensorflow
 
-**pip install os-sys
+*pip install keras
 
-**pip install numpy
+*pip install os-sys
 
-**pip install matplotlib
+*pip install numpy
+
+*pip install matplotlib
